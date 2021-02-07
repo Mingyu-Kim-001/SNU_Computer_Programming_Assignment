@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aksen/CLionProjects/HW5/HW5/problem1/CSI.h
+iostream
+-
+string
+-
+cmath
+-
+fstream
+-
+
+C:/Users/aksen/CLionProjects/HW5/HW5/problem1/TestHelper.h
+iostream
+-
+sstream
+-
+fstream
+-
+
+C:/Users/aksen/CLionProjects/HW5/HW5/problem1/main.cpp
+CSI.h
+C:/Users/aksen/CLionProjects/HW5/HW5/problem1/CSI.h
+TestHelper.h
+C:/Users/aksen/CLionProjects/HW5/HW5/problem1/TestHelper.h
+cassert
+-
+

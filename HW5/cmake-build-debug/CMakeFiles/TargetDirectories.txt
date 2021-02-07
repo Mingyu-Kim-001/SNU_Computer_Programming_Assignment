@@ -1,0 +1,8 @@
+C:/Users/aksen/CLionProjects/HW5/HW5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aksen/CLionProjects/HW5/HW5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/aksen/CLionProjects/HW5/HW5/cmake-build-debug/problem1/CMakeFiles/problem1.dir
+C:/Users/aksen/CLionProjects/HW5/HW5/cmake-build-debug/problem1/CMakeFiles/edit_cache.dir
+C:/Users/aksen/CLionProjects/HW5/HW5/cmake-build-debug/problem1/CMakeFiles/rebuild_cache.dir
+C:/Users/aksen/CLionProjects/HW5/HW5/cmake-build-debug/problem2/CMakeFiles/problem2.dir
+C:/Users/aksen/CLionProjects/HW5/HW5/cmake-build-debug/problem2/CMakeFiles/edit_cache.dir
+C:/Users/aksen/CLionProjects/HW5/HW5/cmake-build-debug/problem2/CMakeFiles/rebuild_cache.dir
